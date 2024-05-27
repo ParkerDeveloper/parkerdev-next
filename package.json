@@ -1,6 +1,6 @@
 {
-  "name": "nestjs-nextjs-trpc",
-  "version": "1.0.0",
+  "name": "parkerdev-personal-site",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
